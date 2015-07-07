@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firefly</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">New Game</string>
+    <string name="turn_text">Turn %1$s</string>
+    <string name="action_text">Action %1$s</string>
+</resources>
